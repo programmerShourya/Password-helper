@@ -1,4 +1,4 @@
-
+import time
 import random
 
 chars = 'abcdefghijklmnopqrstuxyz1234567890ABCDEFGHIJKLMNOPQRSTUVXYZ!@#$%^&*-~:;"".,><}{][|'
@@ -14,3 +14,4 @@ for s in range(sh):
     for a in range(go):
         password += random.choice(chars)
     print(password)
+    time.sleep(10)
