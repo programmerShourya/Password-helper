@@ -14,4 +14,4 @@ for s in range(sh):
     for a in range(go):
         password += random.choice(chars)
     print(password)
-    time.sleep(10)
+    time.sleep(2)
