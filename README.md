@@ -6,3 +6,4 @@ and on others download file
 
 click password.py and run it and on terminal type python password.py
 then click data.py to store data made by you
+and sve your password there
